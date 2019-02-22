@@ -1,0 +1,11 @@
+/home/tgwtg/programming/dotnet/AbusingDotNet/bin/Debug/netcoreapp2.1/AbusingDotNet.deps.json
+/home/tgwtg/programming/dotnet/AbusingDotNet/bin/Debug/netcoreapp2.1/AbusingDotNet.runtimeconfig.json
+/home/tgwtg/programming/dotnet/AbusingDotNet/bin/Debug/netcoreapp2.1/AbusingDotNet.runtimeconfig.dev.json
+/home/tgwtg/programming/dotnet/AbusingDotNet/bin/Debug/netcoreapp2.1/AbusingDotNet.dll
+/home/tgwtg/programming/dotnet/AbusingDotNet/bin/Debug/netcoreapp2.1/AbusingDotNet.pdb
+/home/tgwtg/programming/dotnet/AbusingDotNet/obj/Debug/netcoreapp2.1/AbusingDotNet.csprojAssemblyReference.cache
+/home/tgwtg/programming/dotnet/AbusingDotNet/obj/Debug/netcoreapp2.1/AbusingDotNet.csproj.CoreCompileInputs.cache
+/home/tgwtg/programming/dotnet/AbusingDotNet/obj/Debug/netcoreapp2.1/AbusingDotNet.AssemblyInfoInputs.cache
+/home/tgwtg/programming/dotnet/AbusingDotNet/obj/Debug/netcoreapp2.1/AbusingDotNet.AssemblyInfo.cs
+/home/tgwtg/programming/dotnet/AbusingDotNet/obj/Debug/netcoreapp2.1/AbusingDotNet.dll
+/home/tgwtg/programming/dotnet/AbusingDotNet/obj/Debug/netcoreapp2.1/AbusingDotNet.pdb
